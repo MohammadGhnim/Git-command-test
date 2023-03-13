@@ -1,1 +1,1 @@
-# The Amazon project was a test in our course.
+# This was a task in our course.
